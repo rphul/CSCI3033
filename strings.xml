@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Now</string>
+
+    <!-- Weather Detail -->
+    <string name="footer3">Designed By Spencer Moore</string>
+    <string name="action_home">Home</string>
+</resources>
